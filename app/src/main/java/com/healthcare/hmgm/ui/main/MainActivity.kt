@@ -61,7 +61,6 @@ fun initLayout() {
                 onClick = {
                     launcher.launch(ChattingActivity.newIntent(context))
                 },
-                containerColor = colorResource(id = R.color.floating_button_gray),
                 shape = CircleShape,
                 elevation = FloatingActionButtonDefaults.elevation(defaultElevation = 10.dp)
             ) {

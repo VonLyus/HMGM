@@ -4,4 +4,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="floating_button_gray">#80888888</color>
     <color name="message_background">#48b0f7</color>
+    <color name="transparent">#00000000</color>
 </resources>
